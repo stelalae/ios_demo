@@ -1,0 +1,38 @@
+PODS:
+  - AFNetworking (4.0.1):
+    - AFNetworking/NSURLSession (= 4.0.1)
+    - AFNetworking/Reachability (= 4.0.1)
+    - AFNetworking/Security (= 4.0.1)
+    - AFNetworking/Serialization (= 4.0.1)
+    - AFNetworking/UIKit (= 4.0.1)
+  - AFNetworking/NSURLSession (4.0.1):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (4.0.1)
+  - AFNetworking/Security (4.0.1)
+  - AFNetworking/Serialization (4.0.1)
+  - AFNetworking/UIKit (4.0.1):
+    - AFNetworking/NSURLSession
+  - JKSandBoxManager (0.1.7.1)
+  - WebCacheFile (0.1.1):
+    - AFNetworking
+    - JKSandBoxManager
+
+DEPENDENCIES:
+  - WebCacheFile
+
+SPEC REPOS:
+  trunk:
+    - AFNetworking
+    - JKSandBoxManager
+    - WebCacheFile
+
+SPEC CHECKSUMS:
+  AFNetworking: 7864c38297c79aaca1500c33288e429c3451fdce
+  JKSandBoxManager: 1de779140b7c768a2362bfbd35b26e66dcb77392
+  WebCacheFile: 3658839e64df8583c1acb14f8a263dae9c4dfb48
+
+PODFILE CHECKSUM: cccf14da7fd5032dc951be445c3da21d298918ca
+
+COCOAPODS: 1.9.0
