@@ -14,6 +14,12 @@
 
 #define WebCacheFile_DEBUG
 
+#import <RTRootNavigationController.h>
 #import <WebCacheFile/WebCacheFile.h>
+
+
+
+#define mainw [UIScreen mainScreen].bounds.size.width
+#define mainh [UIScreen mainScreen].bounds.size.height
 
 #endif /* Prefix_pch */

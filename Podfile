@@ -7,5 +7,6 @@ target 'ios_demo' do
 
   # Pods for ios_demo
   pod 'WebCacheFile'
+  pod 'RTRootNavigationController'
 
 end

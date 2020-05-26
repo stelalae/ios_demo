@@ -15,24 +15,30 @@ PODS:
   - AFNetworking/UIKit (4.0.1):
     - AFNetworking/NSURLSession
   - JKSandBoxManager (0.1.7.1)
+  - RTRootNavigationController (0.7.2):
+    - RTRootNavigationController/Core (= 0.7.2)
+  - RTRootNavigationController/Core (0.7.2)
   - WebCacheFile (0.1.1):
     - AFNetworking
     - JKSandBoxManager
 
 DEPENDENCIES:
+  - RTRootNavigationController
   - WebCacheFile
 
 SPEC REPOS:
   trunk:
     - AFNetworking
     - JKSandBoxManager
+    - RTRootNavigationController
     - WebCacheFile
 
 SPEC CHECKSUMS:
   AFNetworking: 7864c38297c79aaca1500c33288e429c3451fdce
   JKSandBoxManager: 1de779140b7c768a2362bfbd35b26e66dcb77392
+  RTRootNavigationController: 8344c2352d6d40fa370d0366efae2c84a945213f
   WebCacheFile: 3658839e64df8583c1acb14f8a263dae9c4dfb48
 
-PODFILE CHECKSUM: cccf14da7fd5032dc951be445c3da21d298918ca
+PODFILE CHECKSUM: 61eb3ae700885b6d9d8120723f36946f6e2cbddd
 
-COCOAPODS: 1.9.0
+COCOAPODS: 1.9.1
