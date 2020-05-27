@@ -3,7 +3,7 @@
 //  ios_demo
 //
 //  Created by leiyinchun on 2020/5/11.
-//  Copyright © 2020 lyc. All rights reserved.
+//  Copyright © 2020 leiyinchun. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>

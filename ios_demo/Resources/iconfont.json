@@ -1,0 +1,16 @@
+{
+  "id": "1844116",
+  "name": "ios_demo",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1171357",
+      "name": "右键",
+      "font_class": "youjian",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    }
+  ]
+}

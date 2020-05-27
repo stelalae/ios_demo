@@ -8,5 +8,8 @@ target 'ios_demo' do
   # Pods for ios_demo
   pod 'WebCacheFile'
   pod 'RTRootNavigationController'
+  pod 'Masonry'
+  pod 'MJExtension'
+  pod 'SVGKit'
 
 end

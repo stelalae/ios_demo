@@ -14,6 +14,24 @@
 		54D23A582468EFCD00F19423 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 54D23A562468EFCD00F19423 /* LaunchScreen.storyboard */; };
 		54D23A5B2468EFCD00F19423 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 54D23A5A2468EFCD00F19423 /* main.m */; };
 		54D30DD4247CEA6000715200 /* WebViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 54D30DD3247CEA6000715200 /* WebViewController.m */; };
+		54D30E08247D188E00715200 /* TVAutoHeightVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 54D30E07247D188E00715200 /* TVAutoHeightVC.m */; };
+		54D30E0B247D18AD00715200 /* TVAutoHeightCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 54D30E0A247D18AD00715200 /* TVAutoHeightCell.m */; };
+		54D30E0F247D1A4400715200 /* Model.m in Sources */ = {isa = PBXBuildFile; fileRef = 54D30E0E247D1A4400715200 /* Model.m */; };
+		54D30E30247D1CA000715200 /* UILabel+Extension.m in Sources */ = {isa = PBXBuildFile; fileRef = 54D30E16247D1CA000715200 /* UILabel+Extension.m */; };
+		54D30E35247D1CA000715200 /* NSString+Extension.m in Sources */ = {isa = PBXBuildFile; fileRef = 54D30E24247D1CA000715200 /* NSString+Extension.m */; };
+		54D30E3E247D1D2200715200 /* UIView+Extension.m in Sources */ = {isa = PBXBuildFile; fileRef = 54D30E3D247D1D2200715200 /* UIView+Extension.m */; };
+		54D30E4B247D1EDA00715200 /* iconfont.js in Resources */ = {isa = PBXBuildFile; fileRef = 54D30E41247D1EDA00715200 /* iconfont.js */; };
+		54D30E4C247D1EDA00715200 /* demo.css in Resources */ = {isa = PBXBuildFile; fileRef = 54D30E42247D1EDA00715200 /* demo.css */; };
+		54D30E4D247D1EDA00715200 /* iconfont.json in Resources */ = {isa = PBXBuildFile; fileRef = 54D30E43247D1EDA00715200 /* iconfont.json */; };
+		54D30E4E247D1EDA00715200 /* iconfont.woff in Resources */ = {isa = PBXBuildFile; fileRef = 54D30E44247D1EDA00715200 /* iconfont.woff */; };
+		54D30E4F247D1EDA00715200 /* iconfont.eot in Resources */ = {isa = PBXBuildFile; fileRef = 54D30E45247D1EDA00715200 /* iconfont.eot */; };
+		54D30E50247D1EDA00715200 /* iconfont.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 54D30E46247D1EDA00715200 /* iconfont.ttf */; };
+		54D30E51247D1EDA00715200 /* demo_index.html in Resources */ = {isa = PBXBuildFile; fileRef = 54D30E47247D1EDA00715200 /* demo_index.html */; };
+		54D30E52247D1EDA00715200 /* iconfont.woff2 in Resources */ = {isa = PBXBuildFile; fileRef = 54D30E48247D1EDA00715200 /* iconfont.woff2 */; };
+		54D30E53247D1EDA00715200 /* iconfont.svg in Resources */ = {isa = PBXBuildFile; fileRef = 54D30E49247D1EDA00715200 /* iconfont.svg */; };
+		54D30E54247D1EDA00715200 /* iconfont.css in Resources */ = {isa = PBXBuildFile; fileRef = 54D30E4A247D1EDA00715200 /* iconfont.css */; };
+		54D30E59247D22AA00715200 /* UIImage+WLCompress.m in Sources */ = {isa = PBXBuildFile; fileRef = 54D30E56247D22AA00715200 /* UIImage+WLCompress.m */; };
+		54D30E5A247D22AA00715200 /* UIImage+Extension.m in Sources */ = {isa = PBXBuildFile; fileRef = 54D30E57247D22AA00715200 /* UIImage+Extension.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +48,34 @@
 		54D23A612468F1C300F19423 /* Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Prefix.pch; sourceTree = "<group>"; };
 		54D30DD2247CEA6000715200 /* WebViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = WebViewController.h; sourceTree = "<group>"; };
 		54D30DD3247CEA6000715200 /* WebViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = WebViewController.m; sourceTree = "<group>"; };
+		54D30E06247D188E00715200 /* TVAutoHeightVC.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TVAutoHeightVC.h; sourceTree = "<group>"; };
+		54D30E07247D188E00715200 /* TVAutoHeightVC.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TVAutoHeightVC.m; sourceTree = "<group>"; };
+		54D30E09247D18AD00715200 /* TVAutoHeightCell.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TVAutoHeightCell.h; sourceTree = "<group>"; };
+		54D30E0A247D18AD00715200 /* TVAutoHeightCell.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TVAutoHeightCell.m; sourceTree = "<group>"; };
+		54D30E0D247D1A0C00715200 /* Model.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Model.h; sourceTree = "<group>"; };
+		54D30E0E247D1A4400715200 /* Model.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Model.m; sourceTree = "<group>"; };
+		54D30E15247D1CA000715200 /* NSString+Extension.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSString+Extension.h"; sourceTree = "<group>"; };
+		54D30E16247D1CA000715200 /* UILabel+Extension.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UILabel+Extension.m"; sourceTree = "<group>"; };
+		54D30E23247D1CA000715200 /* UILabel+Extension.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UILabel+Extension.h"; sourceTree = "<group>"; };
+		54D30E24247D1CA000715200 /* NSString+Extension.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSString+Extension.m"; sourceTree = "<group>"; };
+		54D30E26247D1CA000715200 /* Category.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Category.h; sourceTree = "<group>"; };
+		54D30E3C247D1D2200715200 /* UIView+Extension.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIView+Extension.h"; sourceTree = "<group>"; };
+		54D30E3D247D1D2200715200 /* UIView+Extension.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIView+Extension.m"; sourceTree = "<group>"; };
+		54D30E3F247D1D6900715200 /* Macro.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Macro.h; sourceTree = "<group>"; };
+		54D30E41247D1EDA00715200 /* iconfont.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = iconfont.js; sourceTree = "<group>"; };
+		54D30E42247D1EDA00715200 /* demo.css */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.css; path = demo.css; sourceTree = "<group>"; };
+		54D30E43247D1EDA00715200 /* iconfont.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = iconfont.json; sourceTree = "<group>"; };
+		54D30E44247D1EDA00715200 /* iconfont.woff */ = {isa = PBXFileReference; lastKnownFileType = file; path = iconfont.woff; sourceTree = "<group>"; };
+		54D30E45247D1EDA00715200 /* iconfont.eot */ = {isa = PBXFileReference; lastKnownFileType = file; path = iconfont.eot; sourceTree = "<group>"; };
+		54D30E46247D1EDA00715200 /* iconfont.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = iconfont.ttf; sourceTree = "<group>"; };
+		54D30E47247D1EDA00715200 /* demo_index.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = demo_index.html; sourceTree = "<group>"; };
+		54D30E48247D1EDA00715200 /* iconfont.woff2 */ = {isa = PBXFileReference; lastKnownFileType = file; path = iconfont.woff2; sourceTree = "<group>"; };
+		54D30E49247D1EDA00715200 /* iconfont.svg */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = iconfont.svg; sourceTree = "<group>"; };
+		54D30E4A247D1EDA00715200 /* iconfont.css */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.css; path = iconfont.css; sourceTree = "<group>"; };
+		54D30E55247D22AA00715200 /* UIImage+Extension.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIImage+Extension.h"; sourceTree = "<group>"; };
+		54D30E56247D22AA00715200 /* UIImage+WLCompress.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIImage+WLCompress.m"; sourceTree = "<group>"; };
+		54D30E57247D22AA00715200 /* UIImage+Extension.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIImage+Extension.m"; sourceTree = "<group>"; };
+		54D30E58247D22AA00715200 /* UIImage+WLCompress.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIImage+WLCompress.h"; sourceTree = "<group>"; };
 		5B9C68E3356A6BDF8F62CE20 /* Pods_ios_demo.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ios_demo.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		779422019D591250EFE33FA9 /* Pods-ios_demo.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ios_demo.debug.xcconfig"; path = "Target Support Files/Pods-ios_demo/Pods-ios_demo.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -67,19 +113,87 @@
 		54D23A472468EFCC00F19423 /* ios_demo */ = {
 			isa = PBXGroup;
 			children = (
-				54D23A612468F1C300F19423 /* Prefix.pch */,
-				54D23A482468EFCC00F19423 /* AppDelegate.h */,
-				54D23A492468EFCC00F19423 /* AppDelegate.m */,
+				54D30E40247D1EDA00715200 /* Resources */,
+				54D30E10247D1CA000715200 /* Category */,
+				54D30E0C247D19AC00715200 /* Model */,
+				54D30E05247D182800715200 /* WebView */,
+				54D30E04247D181500715200 /* TableView */,
 				54D23A4E2468EFCC00F19423 /* ViewController.h */,
 				54D23A4F2468EFCC00F19423 /* ViewController.m */,
+				54D23A482468EFCC00F19423 /* AppDelegate.h */,
+				54D23A492468EFCC00F19423 /* AppDelegate.m */,
 				54D23A542468EFCD00F19423 /* Assets.xcassets */,
-				54D23A562468EFCD00F19423 /* LaunchScreen.storyboard */,
 				54D23A592468EFCD00F19423 /* Info.plist */,
+				54D23A562468EFCD00F19423 /* LaunchScreen.storyboard */,
+				54D30E3F247D1D6900715200 /* Macro.h */,
 				54D23A5A2468EFCD00F19423 /* main.m */,
+				54D23A612468F1C300F19423 /* Prefix.pch */,
+			);
+			path = ios_demo;
+			sourceTree = "<group>";
+		};
+		54D30E04247D181500715200 /* TableView */ = {
+			isa = PBXGroup;
+			children = (
+				54D30E06247D188E00715200 /* TVAutoHeightVC.h */,
+				54D30E07247D188E00715200 /* TVAutoHeightVC.m */,
+				54D30E09247D18AD00715200 /* TVAutoHeightCell.h */,
+				54D30E0A247D18AD00715200 /* TVAutoHeightCell.m */,
+			);
+			path = TableView;
+			sourceTree = "<group>";
+		};
+		54D30E05247D182800715200 /* WebView */ = {
+			isa = PBXGroup;
+			children = (
 				54D30DD2247CEA6000715200 /* WebViewController.h */,
 				54D30DD3247CEA6000715200 /* WebViewController.m */,
 			);
-			path = ios_demo;
+			path = WebView;
+			sourceTree = "<group>";
+		};
+		54D30E0C247D19AC00715200 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				54D30E0D247D1A0C00715200 /* Model.h */,
+				54D30E0E247D1A4400715200 /* Model.m */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		54D30E10247D1CA000715200 /* Category */ = {
+			isa = PBXGroup;
+			children = (
+				54D30E55247D22AA00715200 /* UIImage+Extension.h */,
+				54D30E57247D22AA00715200 /* UIImage+Extension.m */,
+				54D30E58247D22AA00715200 /* UIImage+WLCompress.h */,
+				54D30E56247D22AA00715200 /* UIImage+WLCompress.m */,
+				54D30E26247D1CA000715200 /* Category.h */,
+				54D30E3C247D1D2200715200 /* UIView+Extension.h */,
+				54D30E3D247D1D2200715200 /* UIView+Extension.m */,
+				54D30E15247D1CA000715200 /* NSString+Extension.h */,
+				54D30E24247D1CA000715200 /* NSString+Extension.m */,
+				54D30E23247D1CA000715200 /* UILabel+Extension.h */,
+				54D30E16247D1CA000715200 /* UILabel+Extension.m */,
+			);
+			path = Category;
+			sourceTree = "<group>";
+		};
+		54D30E40247D1EDA00715200 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				54D30E41247D1EDA00715200 /* iconfont.js */,
+				54D30E42247D1EDA00715200 /* demo.css */,
+				54D30E43247D1EDA00715200 /* iconfont.json */,
+				54D30E44247D1EDA00715200 /* iconfont.woff */,
+				54D30E45247D1EDA00715200 /* iconfont.eot */,
+				54D30E46247D1EDA00715200 /* iconfont.ttf */,
+				54D30E47247D1EDA00715200 /* demo_index.html */,
+				54D30E48247D1EDA00715200 /* iconfont.woff2 */,
+				54D30E49247D1EDA00715200 /* iconfont.svg */,
+				54D30E4A247D1EDA00715200 /* iconfont.css */,
+			);
+			path = Resources;
 			sourceTree = "<group>";
 		};
 		ABC54C8172E6F2EE3CD1B1AE /* Frameworks */ = {
@@ -128,7 +242,7 @@
 			isa = PBXProject;
 			attributes = {
 				LastUpgradeCheck = 1130;
-				ORGANIZATIONNAME = lyc;
+				ORGANIZATIONNAME = leiyinchun;
 				TargetAttributes = {
 					54D23A442468EFCC00F19423 = {
 						CreatedOnToolsVersion = 11.3.1;
@@ -158,8 +272,18 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				54D30E50247D1EDA00715200 /* iconfont.ttf in Resources */,
+				54D30E4F247D1EDA00715200 /* iconfont.eot in Resources */,
+				54D30E4C247D1EDA00715200 /* demo.css in Resources */,
+				54D30E4D247D1EDA00715200 /* iconfont.json in Resources */,
+				54D30E4B247D1EDA00715200 /* iconfont.js in Resources */,
+				54D30E53247D1EDA00715200 /* iconfont.svg in Resources */,
 				54D23A582468EFCD00F19423 /* LaunchScreen.storyboard in Resources */,
 				54D23A552468EFCD00F19423 /* Assets.xcassets in Resources */,
+				54D30E51247D1EDA00715200 /* demo_index.html in Resources */,
+				54D30E52247D1EDA00715200 /* iconfont.woff2 in Resources */,
+				54D30E4E247D1EDA00715200 /* iconfont.woff in Resources */,
+				54D30E54247D1EDA00715200 /* iconfont.css in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -212,9 +336,17 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				54D30E3E247D1D2200715200 /* UIView+Extension.m in Sources */,
 				54D23A502468EFCC00F19423 /* ViewController.m in Sources */,
+				54D30E0B247D18AD00715200 /* TVAutoHeightCell.m in Sources */,
+				54D30E5A247D22AA00715200 /* UIImage+Extension.m in Sources */,
+				54D30E0F247D1A4400715200 /* Model.m in Sources */,
+				54D30E59247D22AA00715200 /* UIImage+WLCompress.m in Sources */,
 				54D30DD4247CEA6000715200 /* WebViewController.m in Sources */,
+				54D30E08247D188E00715200 /* TVAutoHeightVC.m in Sources */,
 				54D23A4A2468EFCC00F19423 /* AppDelegate.m in Sources */,
+				54D30E30247D1CA000715200 /* UILabel+Extension.m in Sources */,
+				54D30E35247D1CA000715200 /* NSString+Extension.m in Sources */,
 				54D23A5B2468EFCD00F19423 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -357,7 +489,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.lyc.ios-demo";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.leiyinchun.ios-demo";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = 1;
 			};
@@ -377,7 +509,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.lyc.ios-demo";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.leiyinchun.ios-demo";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = 1;
 			};

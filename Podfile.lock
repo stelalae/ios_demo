@@ -14,31 +14,49 @@ PODS:
   - AFNetworking/Serialization (4.0.1)
   - AFNetworking/UIKit (4.0.1):
     - AFNetworking/NSURLSession
+  - CocoaLumberjack (3.6.1):
+    - CocoaLumberjack/Core (= 3.6.1)
+  - CocoaLumberjack/Core (3.6.1)
   - JKSandBoxManager (0.1.7.1)
+  - Masonry (1.1.0)
+  - MJExtension (3.2.1)
   - RTRootNavigationController (0.7.2):
     - RTRootNavigationController/Core (= 0.7.2)
   - RTRootNavigationController/Core (0.7.2)
+  - SVGKit (2.1.1):
+    - CocoaLumberjack (~> 3.0)
   - WebCacheFile (0.1.1):
     - AFNetworking
     - JKSandBoxManager
 
 DEPENDENCIES:
+  - Masonry
+  - MJExtension
   - RTRootNavigationController
+  - SVGKit
   - WebCacheFile
 
 SPEC REPOS:
   trunk:
     - AFNetworking
+    - CocoaLumberjack
     - JKSandBoxManager
+    - Masonry
+    - MJExtension
     - RTRootNavigationController
+    - SVGKit
     - WebCacheFile
 
 SPEC CHECKSUMS:
   AFNetworking: 7864c38297c79aaca1500c33288e429c3451fdce
+  CocoaLumberjack: b17ae15142558d08bbacf69775fa10c4abbebcc9
   JKSandBoxManager: 1de779140b7c768a2362bfbd35b26e66dcb77392
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  MJExtension: 635f2c663dcb1bf76fa4b715b2570a5710aec545
   RTRootNavigationController: 8344c2352d6d40fa370d0366efae2c84a945213f
+  SVGKit: 652cdf7bef8bec8564d04a8511d3ab50c7595fac
   WebCacheFile: 3658839e64df8583c1acb14f8a263dae9c4dfb48
 
-PODFILE CHECKSUM: 61eb3ae700885b6d9d8120723f36946f6e2cbddd
+PODFILE CHECKSUM: 5be0f8e46014d3a316f6664d4d99ce9b9cfadbb1
 
 COCOAPODS: 1.9.1
